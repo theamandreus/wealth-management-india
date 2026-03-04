@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "india-mf-data": {
+      "command": "python",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/mcp-server/india_mf_mcp.py"],
+      "env": {}
+    }
+  }
+}
